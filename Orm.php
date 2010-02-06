@@ -16,9 +16,6 @@ if ( !defined('NOT_NULL') ) define ('NOT_NULL', ' <> ""');
  /**
   * [Object Relational Mapping][ref-orm] (ORM) is a method of abstracting database
   * access to standard PHP calls.
-  * 
-  *  
-  * 
   */
 
 
